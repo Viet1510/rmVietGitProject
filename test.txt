@@ -1,1 +1,3 @@
-dding text to test.txt
+adding text to test.txt
+adding line 2 to test.txt
+
